@@ -20,5 +20,5 @@ Abanking Weather App with deploy
                   6) Создает доп блок с картой местоположения по координатом, отмечая маркером место
 При введении новых координат, данные в информационном блоке изменятся, а карта с новым местоположением добавится снизу предыдущей карты.
 
-Посмотреть сайт можно из браузера - [Weather App](https-github-com-graddery-web-weather-app-6yhv.vercel.app) или [Weather App](https://https-github-com-graddery-web-wea-git-d0602c-gradderys-projects.vercel.app)
+Посмотреть сайт можно из браузера - [Weather App](https://https-github-com-graddery-web-wea-git-d0602c-gradderys-projects.vercel.app) или [Weather App](https-github-com-graddery-web-weather-app-6yhv.vercel.app)
                   
